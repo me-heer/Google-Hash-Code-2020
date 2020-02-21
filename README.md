@@ -7,7 +7,7 @@ The program will output as shown in **output_file.txt**
 
 ### Compile & Run your Java file as shown:
 
-
-  javac Solution.java \
-  java Solution < input_file.txt > output_file.txt
-
+```
+javac Solution.java 
+java Solution < input_file.txt > output_file.txt
+```
